@@ -52,7 +52,6 @@ Artificial Intelligence Applications
     max-width: 250px;
   }
 </style>
-<b>Visual perception modeling</b>
 <table align="center" border="none">
   <tr>
       <td>
@@ -98,8 +97,6 @@ Artificial Intelligence Applications
         </p>
       </td>
   </tr>
-</table>
-<table align="center" border="none">
   <tr>
       <td>
         <img align="left" width="700" height="400" src="../images/05_TMM.png"/>
@@ -167,6 +164,7 @@ Artificial Intelligence Applications
       </td>
   </tr>
   <tr>
+</table>
 
 For more papers, please kindly refer to [my Google Scholar page](https://scholar.google.com/citations?hl=zh-CN&user=n0xnWAoAAAAJ).
 
