@@ -18,27 +18,19 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-<p style="text-align: justify;font-family: Roboto;">
 I am Feng Shao. I received the B.S. and Ph.D. degrees in electronic science and technology from Zhejiang University, Hangzhou, China, in 2002 and 2007, respectively. He is currently a Professor with the Faculty of Information Science and Engineering, Ningbo University, China. I am a Visiting Fellow with the School of Computer Engineering, Nanyang Technological University, Singapore, from February 2012 to August 2012, advised by  Prof. <a href = "https://personal.ntu.edu.sg/wslin/Home.html" target = "_blank"> Weisi Lin </a> (IEEE Fellow). The visit was supported by the Chinese Scholarship Council. I published over 100 technical articles in refereed journals and proceedings in the areas of image processing, image quality assessment, and immersive media computing. I received the Excellent Young Scholar Award by NSF of China (NSFC). 
-</p>
+
 <span class='anchor' id='r-interests'></span>
 
-
-
-
 # <font color="#2B6ADD" > Researh Interests </font>
-<p style="font-family: Roboto;">
 Imaging Technology
 Visual Systems
 Machine Intelligence
 Artificial Intelligence Applications
-</p>
 <br>
 
-<span class='anchor' id='pub'></span>
 
-# <font color="#2B6ADD"> Selected Publications </font>
-
+# 📝 Publications 
 <style>
   table {
     border-collapse: collapse;
